@@ -1,10 +1,10 @@
-FIREBASE + NODEJS + REACT + WEBPACK
+Firebase + NodeJS + React + Webpack
 
 
-Start project:
+To Start a project use:
 
 yarn install
 
-webpack --save-dev
+yarn add --dev webpack
 
 yarn start
